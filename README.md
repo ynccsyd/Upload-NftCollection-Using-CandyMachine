@@ -122,3 +122,5 @@ sugar mint
 
 ![image](https://user-images.githubusercontent.com/109158340/207700751-c1083134-db6f-4246-8267-e303df848ee8.png)
 
+## :point_right:$\textcolor{gray}{ if\ you want\ to\ create\ a\ front-end\ for\ your\ NFT\ collection\ with\  React\ UI\ template,\ visit\ [my repo](https://github.com/ynccsyd/Candy-Machine-UI-NFT-Collection)}$ 
+
