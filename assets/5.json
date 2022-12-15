@@ -1,0 +1,36 @@
+{
+  "name": "Handy Smurf",
+  "symbol": "SMURF",
+  "description": " Handy Smurf (depicted as wearing overalls, a visor attached to the front of his cap, and with a pencil above his ear) is the handyman of the Smurfs. He helps fix things in the village and is known for his amazing technological inventions. He is the inventor of Clockwork Smurf and Clockwork Smurfette.",
+  "image": "5.jpg",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "white"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "blue"
+    },
+    {
+      "trait_type": "hands",
+      "value": "saw"
+    },
+    {
+      "trait_type": "hands",
+      "value": "wood"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}

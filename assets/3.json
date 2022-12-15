@@ -1,0 +1,32 @@
+{
+  "name": "Papa Smurf",
+  "symbol": "SMURF",
+  "description": " Papa Smurf debuted in 1958 and is a gentle, humble, and knowledgeable village elder. As the Smurfs' leader, Papa is a central fatherlike figure that the Smurfs typically go to when seeking counsel. Due to his fatherly nature, Papa Smurf is always concerned about the Smurfs' welfare and harmony.",
+  "image": "3.jpg",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "red"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "red"
+    },
+    {
+      "trait_type": "beard",
+      "value": "white"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}

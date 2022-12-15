@@ -1,0 +1,32 @@
+{
+  "name": "Jokey Smurf",
+  "symbol": "SMURF",
+  "description": "He is a jolly yet mischievous village prankster who likes to get a laugh out of seeing his fellow Smurfs fall for his practical jokes, usually at the expense of their patience with him. His most common prank is the exploding giftbox that he usually gives to an unsuspecting Smurf. 'Hey, I've got a little surprise for you' ",
+  "image": "6.jpg",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "white"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "blue"
+    },
+    {
+      "trait_type": "hands",
+      "value": "gift"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}

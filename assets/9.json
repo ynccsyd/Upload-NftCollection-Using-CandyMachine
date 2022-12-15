@@ -1,0 +1,36 @@
+{
+  "name": "Brainy Smurf",
+  "symbol": "SMURF",
+  "description": "Brainy Smurf considers himself the most intelligent Smurf in the village and an expert on everything, although his actual knowledge is questionable at best; often, his attempts to help in a given situation lead to even more problems. He can be distinguished from the others by the large glasses he wears. ",
+  "image": "9.jpg",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "white"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "blue"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "glasses"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "book"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}

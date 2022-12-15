@@ -1,0 +1,32 @@
+{
+  "name": "Chef Smurf",
+  "symbol": "SMURF",
+  "description": "Chef Smurf is the Smurf village's chef. He knows dozens of recipes and cooks many dishes. He always wears his toque blanche (white chef's hat). ",
+  "image": "8.jpg",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "white"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "blue"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "kitchen apron"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}

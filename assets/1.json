@@ -1,0 +1,32 @@
+{
+  "name": "Vanity Smurf",
+  "symbol": "SMURF",
+  "description": " He is usually obsessed with his own personal beauty and is usually seen carrying around a mirror admiring himself constantly in it. He is easily identified by a flower on the right side of his hat.",
+  "image": "1.jpg",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "white"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "white"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "pink flower"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}

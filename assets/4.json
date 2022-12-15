@@ -1,0 +1,36 @@
+{
+  "name": "Painter Smurf",
+  "symbol": "SMURF",
+  "description": " Painter Smurf is a brilliant artist and is active in most visual arts. He often wears a red jacket with a black tie, and is often seen either making a painting or a sculpture. In the cartoon series, he speaks with a French accent and refers to his paintings as 'masterpizzes.'",
+  "image": "4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "white"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "white"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "bow tie"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "paint palette& brush"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}

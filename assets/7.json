@@ -1,0 +1,32 @@
+{
+  "name": "Harmony Smurf",
+  "symbol": "SMURF",
+  "description": "Harmony Smurf is a musician who especially loves to play the trumpet, although his musical ability shows a total lack of harmony (somewhat like the singing of a certain fictional Armorican bard, or Johan's blonde-haired, diminutive sidekick). ",
+  "image": "7.jpg",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "white"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "blue"
+    },
+    {
+      "trait_type": "instrument",
+      "value": "trumpet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}

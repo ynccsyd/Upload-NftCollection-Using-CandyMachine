@@ -1,0 +1,32 @@
+{
+  "name": "Hefty Smurf",
+  "symbol": "SMURF",
+  "description": "Hefty is considered the strongest and bravest Smurf of all who's willing to use his strength to help out his fellow Smurfs. He spends his mornings exercising, and his house is full of work-out equipment.",
+  "image": "2.jpg",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "white"
+    },
+    {
+      "trait_type": "Pants",
+      "value": "white"
+    },
+    {
+      "trait_type": "tatoo",
+      "value": "red heart"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}

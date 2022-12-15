@@ -1,0 +1,36 @@
+{
+  "name": "Smurfette Smurf",
+  "symbol": "SMURF",
+  "description": "Smurfette has stereotypical feminine features, with long blonde wavy hair, long eyelashes, and wears a white dress and white high heels. She is the love interest of almost every Smurf.",
+  "image": "0.jpg",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "white"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "white"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "white"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "blonde"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.jpg",
+        "type": "image/jpg"
+      }
+    ]
+  }
+}
