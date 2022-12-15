@@ -119,8 +119,8 @@ sugar mint
 
 
  ### :sparkles: $\textcolor{gray}{Open\ your\ wallet\ and\ see\ your\ collection}$ 
-
-![image](https://user-images.githubusercontent.com/109158340/207700751-c1083134-db6f-4246-8267-e303df848ee8.png)
+ <p align="center">
+    <img src="https://user-images.githubusercontent.com/109158340/207700751-c1083134-db6f-4246-8267-e303df848ee8.png">
 
 ## $\textcolor{gray}{if\ you\ want\ to\ create\ a\ front-end\ for\ your\ NFT\ collection\ with\  React\ UI\ template,\ visit\ my\ repo}$ 
 *  :point_right: [Candy-Machine-UI-NFT-Collection](https://github.com/ynccsyd/Candy-Machine-UI-NFT-Collection)
