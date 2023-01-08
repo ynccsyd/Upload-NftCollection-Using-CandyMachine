@@ -1,4 +1,3 @@
-
 # Metaplex Candy Machine Reference UI  
 ## :dart: $\textcolor{gray}{In\ this\ project\ you\ have\ to\ know:}$ 
 
