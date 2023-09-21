@@ -1,5 +1,5 @@
 # Metaplex Candy Machine Reference UI  
-## :dart: $\textcolor{gray}{In\ this\ project\ you\ have\ to\ know:}$ 
+* # :dart: $\textcolor{green}{In\ this\ project\ you\ have\ to\ know:}$ 
 
 <div>
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/> 
@@ -7,13 +7,13 @@
   <img src="https://user-images.githubusercontent.com/109158340/207687793-d2fe408f-6bfc-4ce6-bfd0-ca7e8bcc17e7.png" title="solana" **alt="solana" width="40" height="40"/>
  </div>
 
-##  🛠  $\textcolor{gray}{Install\ the\ CLIs}$
+* #  🛠  $\textcolor{green}{Install\ the\ CLIs}$
 Before we can get into this, we'll need to install:
 
 * The Solana CLI - the Sugar CLI needs this. You can install it [here](https://docs.solana.com/cli/install-solana-cli-tools) for your OS.
 * The Sugar CLI - you can install it [here](https://docs.metaplex.com/developer-tools/sugar/overview/installation).
 
- ##  🍬 $\textcolor{gray}{Set\ up\ your\ collection }$ 
+ * #  🍬 $\textcolor{green}{Set\ up\ your\ collection }$ 
  * Make a new project folder in your Solana workspace and create an assets folder inside it. I have made a SMURFS collection.:heart_eyes:
 ```json
 {
@@ -83,7 +83,7 @@ and then run these:
 solana config set --keypair ./wallet.json
 solana config set --url https://metaplex.devnet.rpcpool.com/
 ```
- ##  🍭 $\textcolor{gray}{Configure\ your\ Candy\ Machine }$ 
+ * #  🍭 $\textcolor{green}{Configure\ your\ Candy\ Machine }$ 
  *Candy machine does everything for you. You can deploy your collections [step by step](https://docs.metaplex.com/developer-tools/sugar/tutorials/my-first-candy-machine#set-up-your-project) to create .config file or you can use <i>sugar launch</i>.
  
 * Run <i>sugar launch</i> in the terminal and set your nfts metadata.
@@ -112,15 +112,15 @@ yes. · yes
 ```ruby
 sugar mint
 ```
- ### 🎉: $\textcolor{gray}{And\ Here\ is\ your\ collection}$ 
+ * ## 🎉: $\textcolor{green}{And\ Here\ is\ your\ collection}$ 
 
 ![image](https://user-images.githubusercontent.com/109158340/207702055-53bf0987-9f51-4ff2-8cf6-8d9a8fd3c7ec.png)
 
 
- ### :sparkles: $\textcolor{gray}{Open\ your\ wallet\ and\ see\ your\ collection}$ 
+ * ## :sparkles: $\textcolor{green}{Open\ your\ wallet\ and\ see\ your\ collection}$ 
  <p align="center">
     <img src="https://user-images.githubusercontent.com/109158340/207700751-c1083134-db6f-4246-8267-e303df848ee8.png">
 
-## $\textcolor{gray}{if\ you\ want\ to\ create\ a\ front-end\ for\ your\ NFT\ collection\ with\  React\ UI\ template,\ visit\ my\ repo}$ 
+* ### $\textcolor{green}{if\ you\ want\ to\ create\ a\ front-end\ for\ your\ NFT\ collection\ with\  React\ UI\ template,\ visit\ my\ repo}$ 
 *  :point_right: [Candy-Machine-UI-NFT-Collection](https://github.com/ynccsyd/Candy-Machine-UI-NFT-Collection)
 
